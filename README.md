@@ -3,4 +3,4 @@ Repository for all the source codes for the analyses done in manuscript "Dynamic
 
 ## Animated maps 
 
-<img src="img/Tallinn_population_distribution_24H_NB.gif">
+<img src="img/Tallinn_population_distribution_24H_NB.gif" width="350">
