@@ -16,7 +16,7 @@ This script is part of the following article:
   Applied Geography 95, 101-110. https://www.sciencedirect.com/science/article/pii/S014362281731144X
   
 Purpose:
-  This script is used to create the Figure 1 linegraphs.
+  This script is used to create the Figure 2 linegraphs.
   
 Requirements:
   Python 3 with following packages and their dependencies: pandas, geopandas, matplotlib, numpy, seaborn, random.
@@ -263,7 +263,7 @@ def plotStoresSelectedAllDynamicPlusStatic(fp, outfp, store, max_time, fig_width
 
 # Filepaths
 fp = "/data/DYNvsSTAT_graphs.xlsx"
-outfolder = "Results/Figure1"
+outfolder = "Results/Figure2"
 
 # Specify the time limit (ylimit in graph)
 max_time = 30
