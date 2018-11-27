@@ -30,7 +30,7 @@ Contact:
   
 License:
   
-  plot_accessibility_comparisons.py by Digital Geography Lab / Accessibility Research Group (University of Helsinki) is licensed under
+  plot_accessibility_comparisons_24H.py by Digital Geography Lab / Accessibility Research Group (University of Helsinki) is licensed under
   a Creative Commons Attribution 4.0 International License.
   More information about license: http://creativecommons.org/licenses/by-sa/4.0/
 """
