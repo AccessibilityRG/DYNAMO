@@ -30,7 +30,7 @@ Contact:
   
 License:
   
-  dynamo_utils.py by Digital Geography Lab / Accessibility Research Group (University of Helsinki) is licensed under
+  plot_accessibility_maps_24H.py by Digital Geography Lab / Accessibility Research Group (University of Helsinki) is licensed under
   a Creative Commons Attribution 4.0 International License.
   More information about license: http://creativecommons.org/licenses/by-sa/4.0/
 """
