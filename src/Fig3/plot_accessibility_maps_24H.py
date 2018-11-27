@@ -225,12 +225,12 @@ def main():
     show_title_text = True
                     
     # Filepaths
-    data_fp = r"C:\HY-Data\HENTENKA\KOODIT\manuscripts\2017_DYNAMO\Data_for_figures\Travel_time_Maps.shp"
-    roads_fp = r"C:\HY-Data\HENTENKA\KOODIT\manuscripts\2017_DYNAMO\Data_for_figures\DYNAMO_TLNshp\Tallinn_main_roads_for_visualization.shp"
-    boundaries_fp = r"C:\HY-Data\HENTENKA\KOODIT\manuscripts\2017_DYNAMO\Data_for_figures\DYNAMO_TLNshp\TLN_bordersDASY.shp"
-    water_fp = r"C:\HY-Data\HENTENKA\KOODIT\manuscripts\2017_DYNAMO\Data_for_figures\DYNAMO_TLNshp\TLN_water_clip_OSM.shp"
-    groceries_fp = r"C:\HY-Data\HENTENKA\KOODIT\manuscripts\2017_DYNAMO\Data_for_figures\Groceries.shp"
-    outdir = r"C:\HY-Data\HENTENKA\KOODIT\manuscripts\2017_DYNAMO\Figures\Accessibility_Maps\test"
+    data_fp = "data/Travel_time_Maps.shp"
+    roads_fp = "data/Tallinn_main_roads_for_visualization.shp"
+    boundaries_fp = "data/TLN_bordersDASY.shp"
+    water_fp = "data/TLN_water_clip_OSM.shp"
+    groceries_fp = "data/Groceries.shp"
+    outdir = "results/accessibility_maps"
     
     # Read files
     data = gpd.read_file(data_fp)
